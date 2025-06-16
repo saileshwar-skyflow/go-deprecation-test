@@ -1,4 +1,5 @@
-package mymodule
+// client.go
+package godeprecationtest
 
 import "fmt"
 
